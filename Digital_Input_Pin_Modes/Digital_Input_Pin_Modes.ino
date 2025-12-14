@@ -4,7 +4,7 @@ Date        - 09-12-2025
 Board       - NodeMCU ESP-32S - V1.1
 */
 
-// Digital Input Modes
+// Digital Input Pin Modes
 
 const int Input_1 = 4;
 const int Input_2 = 5;
